@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KKolvin
 - 👀 I’m interested in any python-related subjects as an undergrade...
-- 🌱 I’m currently trying to figure out automatic license plate recognition
-- 💞️ I’m looking to collaborate on simple and interesting projects
+- 🌱 I’m looking to collaborate on simple and interesting projects
 - 📫 Reach me by email kewenliu.kolvin@gmail.com
 
 <!---
